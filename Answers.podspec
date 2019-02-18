@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
     s.name             = 'Answers'
     s.version          = '1.4.0.1'
-    s.summary          = ''
+    s.summary          = 'test'
 
     s.description      = <<-DESC
 NotificationBanner is an extremely customizable and lightweight library that makes the task of displaying in app notification banners and drop down alerts an absolute breeze in iOS.
