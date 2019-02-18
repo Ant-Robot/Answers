@@ -31,7 +31,7 @@ NotificationBanner is an extremely customizable and lightweight library that mak
 
     s.frameworks = 'Security', 'SystemConfiguration'
 
-    s.dependency = 'Fabric', '~> 1.8'
+    s.dependency 'Fabric', '~> 1.8'
 
     s.libraries = 'z', 'c++'
 
